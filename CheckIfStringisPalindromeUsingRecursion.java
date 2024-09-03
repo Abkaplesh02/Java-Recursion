@@ -1,3 +1,4 @@
+// Check if string is palindrome using basing recursion
 import java.util.Scanner;
 
 public class CheckIfStringisPalindromeUsingRecursion {
