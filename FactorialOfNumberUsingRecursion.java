@@ -1,3 +1,4 @@
+// Calculate factorial of number using recursion 
 import java.util.Scanner;
 
 public class FactorialOfNumberUsingRecursion {
