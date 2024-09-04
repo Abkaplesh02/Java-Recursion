@@ -1,3 +1,4 @@
+// Print N to 1 using recursion
 import java.util.Scanner;
 
 public class PrintFromNto1 {
